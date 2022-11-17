@@ -94,13 +94,14 @@ $(document).ready( function(){
 
 $('#bg-image').backstretch([
 "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
+, "https://i.ibb.co/H2Y93xH/atat-rk.png"
+, "https://media.tenor.com/pRpqSEpfPJ0AAAAd/mustafa-kemal-atat%C3%BCrk-atat%C3%BCrk.gif"
+, "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
+, "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
+, "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
+, "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
 , "https://media.tenor.com/f3HGfIRTPGYAAAAd/atat%C3%BCrk-mustafa-kemal-atat%C3%BCrk.gif"
 , "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
-, "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
-, "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
-, "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
-, "https://acegif.com/wp-content/uploads/gifs/turkish-flag-1.gif"
-
 
 ], {duration: 7000, fade: 500});
 
