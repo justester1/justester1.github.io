@@ -694,8 +694,3 @@ $(document).ready( function(){
 		});	
 			
 });
-Bu sayfa İngilizce
-Türkçe diline çevir 
-İngilizce dilini her zaman Türkçe diline çevir
-İngilizce için asla çeviri yapma
-raw.githubusercontent.com için asla çeviri yapma
